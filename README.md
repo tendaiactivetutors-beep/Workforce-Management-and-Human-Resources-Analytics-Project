@@ -30,12 +30,12 @@ hr_training_records.csv: Details completed training courses and scores.
 
 ## Tools and Technologies
 
-*Python (Pandas, NumPy): Used for data generation, cleaning, transformation, and exploratory data analysis.
+*Databricks SQL scripts: Used for data generation, cleaning, transformation, and exploratory data analysis.
 
 *SQL (Conceptual): Applied for data querying, joining, and aggregation (demonstrating database interaction principles).
 
-*Power BI / Tableau (Conceptual): Intended for creating interactive dashboards and visualizations to present findings.
-
+*Power BI / Excel/ Locker Studio: Use for creating interactive dashboards and visualizations to present findings.
+*Micosoft Powerpont/ Canva: Use for creating presentations
 ## Key Questions to be Answered
 
 This analysis seeks to answer critical questions relevant to HR and operations:
@@ -65,5 +65,36 @@ Workforce_HR_Analytics_Project_Description.md: The detailed project description.
 
 Visualize & Document: Create dashboards and reports to present your findings and insights.
 
-This project provides a robust framework for developing and showcasing your data analysis capabilities in the HR and Operations domain.
+## Key Insights 
+
+While the specific insights will depend on the actual analysis performed, this project aims to uncover findings such as:
+
+Attrition Hotspots: Identification of departments or job roles with unusually high attrition rates, potentially linked to specific factors like low performance scores or salary discrepancies.
+
+Performance Drivers: Correlation between training completion (e.g., specific course types) and improved employee performance ratings
+
+Absenteeism Patterns: Discovery of seasonal trends in sick leave or specific employee groups with higher rates of unplanned absences.
+
+Training Gaps: Identification of areas where training is lacking, leading to lower performance or higher turnover in certain segments.
+
+Demographic Impact: Understanding how different demographic segments (e.g., tenure, department) are performing or contributing to overall workforce metrics.
+
+## Strategic Recommendations
+
+### Based on the insights derived, the project would typically lead to actionable recommendations such as:  
+
+Targeted Retention Programs: Implement tailored retention strategies for high-risk employee segments, including mentorship programs, career development opportunities, or compensation adjustments.
+
+Optimized Training Initiatives: Develop or refine training programs based on their proven impact on performance, focusing resources on the most effective courses.
+
+Improved Leave Policies: Review and adjust leave policies or implement wellness programs to address identified absenteeism patterns.
+
+Proactive Workforce Planning: Utilize demographic and performance data to forecast future staffing needs and talent development requirements.
+
+Enhanced Performance Management: Introduce data-driven performance feedback mechanisms and goal-setting processes to foster continuous improvement
+
+
+
+### This project provides a robust framework for developing and showcasing your data analysis capabilities in the HR and Operations domain.
+ .
 
