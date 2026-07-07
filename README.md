@@ -6,15 +6,15 @@ This project applies data analytics to synthetic HR data—demographics, perform
 
 The primary objectives of this project are to:
 
-1.Analyze Employee Attrition: Investigate factors influencing employee turnover and predict potential attrition risks.
+1. Analyze Employee Attrition: Investigate factors influencing employee turnover and predict potential attrition risks.
 
-2.Evaluate Performance Trends: Assess employee performance patterns across various departments and job roles.
+2. Evaluate Performance Trends: Assess employee performance patterns across various departments and job roles.
 
-3.Optimize Attendance and Leave Management: Identify patterns in employee absenteeism and leave utilization, and their operational impact.
+3. Optimize Attendance and Leave Management: Identify patterns in employee absenteeism and leave utilization, and their operational impact.
 
-4.Measure Training Effectiveness: Determine the impact of training programs on employee performance and development.
+4. Measure Training Effectiveness: Determine the impact of training programs on employee performance and development.
 
-5.Understand Workforce Demographics: Provide a comprehensive overview of the workforce composition for strategic planning.
+5. Understand Workforce Demographics: Provide a comprehensive overview of the workforce composition for strategic planning.
 
 ## Datasets
 
@@ -53,7 +53,7 @@ This analysis seeks to answer critical questions relevant to HR and operations:
 ## Repository Structure
 
 •
-generate_hr_data.py: Python script used to generate the synthetic datasets.
+generate_hr_data.py: Databricks SQL script used to generate the synthetic datasets.
 
 •
 hr_employees.csv, hr_performance_reviews.csv, hr_attendance_leave.csv, hr_training_records.csv: The generated synthetic datasets.
