@@ -61,27 +61,8 @@ hr_employees.csv, hr_performance_reviews.csv, hr_attendance_leave.csv, hr_traini
 •
 hr_data_usage_guide.md: A detailed guide explaining each dataset and potential analysis areas.
 
-
 Workforce_HR_Analytics_Project_Description.md: The detailed project description.
 
-
-README.md: This file.
-
-How to Use This Repository
-
-1.
-Clone the repository: git clone [repository-url]
-
-2.
-Generate Data: Run generate_hr_data.py to create the CSV files.
-
-3.
-Explore Data: Use the hr_data_usage_guide.md to understand the datasets and potential analyses.
-
-4.
-Perform Analysis: Apply your data analysis skills using Python, SQL, or Power BI/Tableau to answer the key questions.
-
-5.
 Visualize & Document: Create dashboards and reports to present your findings and insights.
 
 This project provides a robust framework for developing and showcasing your data analysis capabilities in the HR and Operations domain.
