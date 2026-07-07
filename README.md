@@ -36,19 +36,19 @@ hr_training_records.csv: Details completed training courses and scores.
 
 *Power BI / Tableau (Conceptual): Intended for creating interactive dashboards and visualizations to present findings.
 
-*Key Questions to be Answered
+## Key Questions to be Answered
 
-*This analysis seeks to answer critical questions relevant to HR and operations:
+This analysis seeks to answer critical questions relevant to HR and operations:
 
-*Attrition: What are the primary drivers of employee attrition? Which employee segments have the highest attrition rates? Can we predict employees at high risk of leaving?
+1. Attrition: What are the primary drivers of employee attrition? Which employee segments have the highest attrition rates? Can we predict employees at high risk of leaving?
 
-*Performance: How do performance ratings vary across departments? Is there a correlation between training and performance? Which teams are high-performing?
+2. Performance: How do performance ratings vary across departments? Is there a correlation between training and performance? Which teams are high-performing?
 
-*Attendance & Leave: What are the absenteeism rates? Are there specific periods or departments with high leave utilization? What is the average duration of different leave types?
+3. Attendance & Leave: What are the absenteeism rates? Are there specific periods or departments with high leave utilization? What is the average duration of different leave types?
 
-*Training: Which training courses are most effective? Is there a measurable impact of training on performance or retention? Are there training gaps?
+4. Training: Which training courses are most effective? Is there a measurable impact of training on performance or retention? Are there training gaps?
 
-*Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
+5. Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
 
 ## Repository Structure
 
