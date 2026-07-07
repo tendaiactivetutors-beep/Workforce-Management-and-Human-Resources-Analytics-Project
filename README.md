@@ -6,25 +6,19 @@ This project applies data analytics to synthetic HR data—demographics, perform
 
 The primary objectives of this project are to:
 
-1.
-Analyze Employee Attrition: Investigate factors influencing employee turnover and predict potential attrition risks.
+1.Analyze Employee Attrition: Investigate factors influencing employee turnover and predict potential attrition risks.
 
-2.
-Evaluate Performance Trends: Assess employee performance patterns across various departments and job roles.
+2.Evaluate Performance Trends: Assess employee performance patterns across various departments and job roles.
 
-3.
-Optimize Attendance and Leave Management: Identify patterns in employee absenteeism and leave utilization, and their operational impact.
+3.Optimize Attendance and Leave Management: Identify patterns in employee absenteeism and leave utilization, and their operational impact.
 
-4.
-Measure Training Effectiveness: Determine the impact of training programs on employee performance and development.
+4.Measure Training Effectiveness: Determine the impact of training programs on employee performance and development.
 
-5.
-Understand Workforce Demographics: Provide a comprehensive overview of the workforce composition for strategic planning.
+5.Understand Workforce Demographics: Provide a comprehensive overview of the workforce composition for strategic planning.
 
 ## Datasets
 
 This project utilizes four interconnected synthetic datasets, generated using Python, to simulate real-world HR data:
-
 
 hr_employees.csv: Contains employee demographics, job titles, hire/termination dates, salary, and performance scores.
 
@@ -36,35 +30,27 @@ hr_training_records.csv: Details completed training courses and scores.
 
 ## Tools and Technologies
 
-•
-Python (Pandas, NumPy): Used for data generation, cleaning, transformation, and exploratory data analysis.
+*Python (Pandas, NumPy): Used for data generation, cleaning, transformation, and exploratory data analysis.
 
-•
-SQL (Conceptual): Applied for data querying, joining, and aggregation (demonstrating database interaction principles).
+*SQL (Conceptual): Applied for data querying, joining, and aggregation (demonstrating database interaction principles).
 
-•
-Power BI / Tableau (Conceptual): Intended for creating interactive dashboards and visualizations to present findings.
+*Power BI / Tableau (Conceptual): Intended for creating interactive dashboards and visualizations to present findings.
 
-Key Questions to be Answered
+*Key Questions to be Answered
 
-This analysis seeks to answer critical questions relevant to HR and operations:
+*This analysis seeks to answer critical questions relevant to HR and operations:
 
-•
-Attrition: What are the primary drivers of employee attrition? Which employee segments have the highest attrition rates? Can we predict employees at high risk of leaving?
+*Attrition: What are the primary drivers of employee attrition? Which employee segments have the highest attrition rates? Can we predict employees at high risk of leaving?
 
-•
-Performance: How do performance ratings vary across departments? Is there a correlation between training and performance? Which teams are high-performing?
+*Performance: How do performance ratings vary across departments? Is there a correlation between training and performance? Which teams are high-performing?
 
-•
-Attendance & Leave: What are the absenteeism rates? Are there specific periods or departments with high leave utilization? What is the average duration of different leave types?
+*Attendance & Leave: What are the absenteeism rates? Are there specific periods or departments with high leave utilization? What is the average duration of different leave types?
 
-•
-Training: Which training courses are most effective? Is there a measurable impact of training on performance or retention? Are there training gaps?
+*Training: Which training courses are most effective? Is there a measurable impact of training on performance or retention? Are there training gaps?
 
-•
-Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
+*Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
 
-Repository Structure
+## Repository Structure
 
 •
 generate_hr_data.py: Python script used to generate the synthetic datasets.
