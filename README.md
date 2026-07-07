@@ -2,7 +2,7 @@
 
 This project applies data analytics to synthetic HR data—demographics, performance, attendance, and training—to optimize workforce management. By identifying trends, it improves operational efficiency and HR strategies, showcasing how data-driven insights support informed decision-making in talent management, retention, and productivity.
 
-##Project Objectives#
+# Project Objectives
 
 The primary objectives of this project are to:
 
@@ -21,23 +21,20 @@ Measure Training Effectiveness: Determine the impact of training programs on emp
 5.
 Understand Workforce Demographics: Provide a comprehensive overview of the workforce composition for strategic planning.
 
-Datasets
+## Datasets
 
 This project utilizes four interconnected synthetic datasets, generated using Python, to simulate real-world HR data:
 
-•
+
 hr_employees.csv: Contains employee demographics, job titles, hire/termination dates, salary, and performance scores.
 
-•
 hr_performance_reviews.csv: Records individual employee performance review ratings and dates.
 
-•
 hr_attendance_leave.csv: Tracks employee leave (sick, vacation, personal) with durations.
 
-•
 hr_training_records.csv: Details completed training courses and scores.
 
-Tools and Technologies
+## Tools and Technologies
 
 •
 Python (Pandas, NumPy): Used for data generation, cleaning, transformation, and exploratory data analysis.
