@@ -1,0 +1,2 @@
+# Workforce-Management-and-Human-Resources-Analytics-Project
+This project applies data analytics to synthetic HR data—demographics, performance, attendance, and training—to optimize workforce management. By identifying trends, it improves operational efficiency and HR strategies, showcasing how data-driven insights support informed decision-making in talent management, retention, and productivity.
