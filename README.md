@@ -50,14 +50,12 @@ This analysis seeks to answer critical questions relevant to HR and operations:
 
 5. Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
 
-## Repository Structure
-
-•
-generate_hr_data.py: Databricks SQL script used to generate the synthetic datasets.
-
-•
-hr_employees.csv, hr_performance_reviews.csv, hr_attendance_leave.csv, hr_training_records.csv: The generated synthetic datasets.
-
+## Technical Details
+ •	Data Sources: Four interconnected synthetic datasets:
+◦	hr_employees.csv: Employee demographics, job titles, hire/termination dates, salary, and performance scores.
+◦	hr_performance_reviews.csv: Individual employee performance review ratings and dates.
+◦	hr_attendance_leave.csv: Records of employee leave (sick, vacation, personal) with durations.
+◦	hr_training_records.csv: Details of completed training courses and scores.
 •
 hr_data_usage_guide.md: A detailed guide explaining each dataset and potential analysis areas.
 
