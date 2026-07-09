@@ -18,7 +18,7 @@ The primary objectives of this project are to:
 
 ## Datasets
 
-This project utilizes four interconnected synthetic datasets, generated using Python, to simulate real-world HR data:
+This project utilizes four interconnected synthetic datasets, generated using Databricks, to simulate real-world HR data:
 
 hr_employees.csv: Contains employee demographics, job titles, hire/termination dates, salary, and performance scores.
 
@@ -50,18 +50,17 @@ This analysis seeks to answer critical questions relevant to HR and operations:
 
 5. Workforce Composition: What is the current distribution of employees by department, job title, and employment status? How has this changed over time?
 
-## Technical Details
- •	Data Sources: Four interconnected synthetic datasets:
-◦	hr_employees.csv: Employee demographics, job titles, hire/termination dates, salary, and performance scores.
-◦	hr_performance_reviews.csv: Individual employee performance review ratings and dates.
-◦	hr_attendance_leave.csv: Records of employee leave (sick, vacation, personal) with durations.
-◦	hr_training_records.csv: Details of completed training courses and scores.
-•
-hr_data_usage_guide.md: A detailed guide explaining each dataset and potential analysis areas.
+## Methodology:
+◦	Data Loading & Integration: Importing CSV files and establishing relationships between datasets based on EmployeeID.
 
-Workforce_HR_Analytics_Project_Description.md: The detailed project description.
+◦	Data Cleaning & Preprocessing: Handling missing values, standardizing data formats, and ensuring data consistency.
 
-Visualize & Document: Create dashboards and reports to present your findings and insights.
+◦	Exploratory Data Analysis (EDA): Utilizing statistical summaries and visualizations to uncover patterns, distributions, and anomalies.
+
+◦	Metric Calculation: Deriving key HR metrics such as attrition rates, average performance scores, absenteeism rates, and training completion rates.
+
+◦	Insight Generation: Interpreting analytical findings to formulate actionable recommendations.
+
 
 ## Key Insights 
 
